@@ -1,9 +1,72 @@
-body{
+ body{
     background-color: deepskyblue;
 }
 .s1{
     text-align:center;
 }
 .s2{
-    
+    text-align: center;
+}
+.s3{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+}
+.s4{
+    text-align: center;
+}
+.s5{
+    text-align: center;
+}
+.s6{
+    text-align: center;
+}
+.s7
+{
+    text-align: center;
+}
+.s8{
+    text-align: center;
+}
+.s9{
+    text-align: center;
+}
+.a1{
+    text-align: center;
+}
+.a2{
+    text-align: center;
+}
+.a3{
+    text-align: center;
+}
+.a4{
+    text-align: center;
+}
+.a5{
+    text-align: center;
+}
+.a6{
+    text-align: center;
+}
+.a7{
+    text-align: center;
+}
+.a8{
+    text-align: center;
+}
+.a9{
+    text-align: center;
+}
+table{
+    -moz-box-align: center;
+}
+.b2{
+    text-align: center;
+}
+.b3{
+    text-align: center;
+}
+.b1{
+    text-align: center;
 }
